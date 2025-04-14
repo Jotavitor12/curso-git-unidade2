@@ -1,0 +1,22 @@
+João Vitor Lopes dos Santos
+
+pwd – Exibe o diretório atual.
+
+cd 
+
+git init --initial-branch=main
+
+git status 
+
+git add 
+git commit -m 
+
+git restore --staged git commit -m Alterado o nome do arquivo – Realiza um commit após renomear o arquivo.
+
+git checkout -b
+
+git branch
+
+git switch
+
+git branch -d
